@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/NousResearch/axolotl-func-calling",
+  "@type": "gh:Repository",
+  "gh:name": "axolotl-func-calling",
+  "gh:owner": "NousResearch",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/NousResearch/axolotl-func-calling/commit/a3595793712000921a94440e8272723a733d6f57",
+      "git:hexsha": "a3595793712000921a94440e8272723a733d6f57",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
