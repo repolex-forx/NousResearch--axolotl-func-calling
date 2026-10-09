@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/axolotl-func-calling/commit/a3595793712000921a94440e8272723a733d6f57",
       "git:hexsha": "a3595793712000921a94440e8272723a733d6f57",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-09T13:26:02.182702+00:00"
     }
   ]
 }
